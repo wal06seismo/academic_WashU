@@ -54,7 +54,7 @@ featured: true
 # - name: Custom Link
 #   url:https://www.nature.com/articles/s41561-022-00929-y.pdf
 
-url_pdf: ''
+url_pdf: 'https://www.nature.com/articles/s41561-022-00929-y.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
