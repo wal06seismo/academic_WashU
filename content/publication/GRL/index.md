@@ -46,9 +46,9 @@ featured: true
 # Custom links (uncomment lines below)
 # links:
 # - name: Custom Link
-#   url:https://www.nature.com/articles/s41561-022-00929-y.pdf
+#   url:https://eartharxiv.org/repository/view/2929/
 
-url_pdf: 'https://www.nature.com/articles/s41561-022-00929-y.pdf'
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
