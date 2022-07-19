@@ -11,29 +11,30 @@ role: Postdoc Research Associate
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: Washinghton University in Saint Louis
-    url: https://www.stanford.edu/
+    url: https://eps.wustl.edu
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Continental lithosphere
+  - Subduction zones/seismic imaging
+  - Joint inversion
+  - Earthquake seismology
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Geophysics-Seismology
+      institution: University of Leicesterm, Leicester, United Kingdom.
+      year: 2017
+    - course: MSc in Geophysics-Geology
+      institution: University of Nice, France.
+      year: 2010
+    - course: BSc in Geology-Geophysics
+      institution: University of Grenonle, France.
+      year: 2007
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
