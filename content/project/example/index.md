@@ -1,8 +1,10 @@
 ---
-title: Example Project
+title: Multi-observable thermochemical tomography
 summary: An example of using the in-built project page.
 tags:
-  - Deep Learning
+  - Africa
+  - Antarctica
+  - South America
 date: '2016-04-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
