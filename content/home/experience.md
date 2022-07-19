@@ -30,11 +30,10 @@ experience:
     date_start: '2020-10-01'
     date_end: ''
     description: |2-
-        Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Multi-observable thermochemical tomograghy of Antarctica
+        * Azimuthal anistropy 
+        * Body wave tomography
 
   - title: Postdoc Research Fellow
     company: Macquarie University
@@ -45,7 +44,7 @@ experience:
     date_end: '2020-07-31'
     description:   |2-
         
-        * Multi-observable thermochemical tomograghie of Central and Southern Africa
+        * Multi-observable thermochemical tomograghy of Central and Southern Africa
         * Ambient noise tomography of Central and Southern Africa
     
 design:
