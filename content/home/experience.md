@@ -43,8 +43,10 @@ experience:
     location: Sydney,New South Wales (Australia)
     date_start: '2018-06-16'
     date_end: '2020-07-31'
-    description: Taught electronic engineering and researched semiconductor physics.
-
+    description:   |2-
+    Multi-observable thermochemical tomograghie of Central and Southern Africa
+    Ambient noise tomography of Central and Southern Africa
+    
 design:
   columns: '2'
 ---
