@@ -1,10 +1,7 @@
 ---
 title: Multi-observable thermochemical tomography
 summary: Multi-observable thermochemical tomography.
-tags:
-  - Africa
-  - Antarctica
-  - South America
+
 date: '2016-04-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
