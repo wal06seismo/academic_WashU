@@ -52,7 +52,7 @@ featured: true
 # Custom links (uncomment lines below)
 # links:
 # - name: Custom Link
-#   url: http://example.org
+#   url:https://www.nature.com/articles/s41561-022-00929-y.pdf
 
 url_pdf: ''
 url_code: ''
