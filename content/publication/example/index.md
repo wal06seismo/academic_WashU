@@ -17,7 +17,7 @@ authors:
   -  Nicole Januszczak
   -  Ilya Fomin
   -  Andrew Nyblade
-  -  Yingje Ynag
+  -  Yingje Yang
 
 # Author notes (optional)
 author_notes:
