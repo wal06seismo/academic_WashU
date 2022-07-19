@@ -1,4 +1,3 @@
-
 ---
 title: 'Thermochemical structure and evolution of cratonic lithosphere in central and southern Africa'
 
