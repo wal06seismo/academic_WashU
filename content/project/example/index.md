@@ -1,6 +1,6 @@
 ---
 title: Multi-observable thermochemical tomography
-summary: An example of using the in-built project page.
+summary: Multi-observable thermochemical tomography.
 tags:
   - Africa
   - Antarctica
