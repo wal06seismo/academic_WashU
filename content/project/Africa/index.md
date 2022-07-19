@@ -1,5 +1,5 @@
 ---
-title: Multi-observable thermochemical tomography
+title: MTT-Africa
 summary: Multi-observable thermochemical tomography.
 
 date: '2016-04-27T00:00:00Z'
