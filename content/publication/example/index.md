@@ -9,6 +9,15 @@ authors:
   - admin
   -  Suzanne Y O’Reilly
   -  William L Griffin
+  -  Farshad Salajeghegh
+  -  Stephen Foley
+  -  Graham Begg
+  -  Kate Selway
+  -  Andrew Macdonald
+  -  Nicole Januszczak
+  -  Ilya Fomin
+  -  Andrew Nyblade
+  -  Yingje Ynag
 
 # Author notes (optional)
 author_notes:
