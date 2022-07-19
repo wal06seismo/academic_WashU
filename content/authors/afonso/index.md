@@ -11,7 +11,7 @@ role: Associate Professor
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: University of Twente
-    url: https://eps.wustl.edu
+    url: https://www.utwente.nl/en/)
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
