@@ -23,19 +23,6 @@ interests:
   - Joint inversion
   - Earthquake seismology
 
-# Education to show in About widget
-education:
-  courses:
-    - course: PhD in Geophysics-Seismology
-      institution: University of Leicesterm, Leicester, United Kingdom.
-      year: 2017
-    - course: MSc in Geophysics-Geology
-      institution: University of Nice, France.
-      year: 2010
-    - course: BSc in Geology-Geophysics
-      institution: University of Grenonle, France.
-      year: 2007
-
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
@@ -70,8 +57,6 @@ email: ''
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-
-Walid Ben Mansour is a post-doctoral research assocaite at Washinghton University in Saint Louis in the Wiens Seismology Research Group. His research interests include multi-observable probabilistic tomography for different targets (mining, seismic hazard), seismic imaging of subduction zones and Precambrian lithosphere.
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
