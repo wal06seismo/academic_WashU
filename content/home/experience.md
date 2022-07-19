@@ -25,7 +25,7 @@ experience:
   - title: Postdoc Research Associate
     company: Washinghton University in Saint Louis
     company_url: ''
-    company_logo: org-gc
+    company_logo: 
     location: Saint Louis, Missouri (USA)
     date_start: '2020-10-01'
     date_end: ''
@@ -39,7 +39,7 @@ experience:
   - title: Postdoc Research Fellow
     company: Macquarie University
     company_url: ''
-    company_logo: org-x
+    company_logo: 
     location: Sydney,New South Wales (Australia)
     date_start: '2018-06-16'
     date_end: '2020-07-31'
