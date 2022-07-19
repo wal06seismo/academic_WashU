@@ -8,7 +8,7 @@ authors:
   - Juan Carlos Afonso
   - admin
   -  Suzanne Y O’Reilly
-  -  Willima L GriffinL 
+  -  William L Griffin
 
 # Author notes (optional)
 author_notes:
