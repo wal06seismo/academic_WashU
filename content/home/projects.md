@@ -27,10 +27,14 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: Deep Learning
-      tag: Deep Learning
-    - name: Other
-      tag: Demo
+    - name: MTT
+      tag: MTT
+     - name: TOMO
+      tag: TOMO
+      - name: ANISO
+      tag: ANISO
+    - name: EQ
+      tag: EQ
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
