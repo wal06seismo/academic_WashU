@@ -48,7 +48,7 @@ featured: true
 # - name: Custom Link
 #   url:https://eartharxiv.org/repository/view/2929/
 
-url_pdf: ''
+url_pdf: 'https://eartharxiv.org/repository/view/2929/'
 url_code: ''
 url_dataset: ''
 url_poster: ''
