@@ -33,13 +33,14 @@ experience:
         
         * Multi-observable thermochemical tomograghy of Antarctica
         * Azimuthal anistropy 
-        * Body wave tomography
+        * Multi frequency P and S body wave tomography
+       
 
   - title: Postdoc Research Fellow
     company: Macquarie University
     company_url: 'https://www.mq.edu.au'
     company_logo: 
-    location: Sydney,New South Wales (Australia)
+    location: Sydney, New South Wales (Australia)
     date_start: '2018-06-16'
     date_end: '2020-07-31'
     description:   |2-
