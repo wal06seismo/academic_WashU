@@ -97,25 +97,13 @@ Create your slides in Markdown - click the _Slides_ button to check out the exam
 Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
 
 ---
-title: 'Thermochemical structure and evolution of cratonic lithosphere in central and southern Africa'
+title: 'Crustal properties of the northern Scandinavian mountains and Fennoscandian shield from analysis of teleseismic receiver functions'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Juan Carlos Afonso
   - admin
-  -  Suzanne Y O’Reilly
-  -  William L Griffin
-  -  Farshad Salajeghegh
-  -  Stephen Foley
-  -  Graham Begg
-  -  Kate Selway
-  -  Andrew Macdonald
-  -  Nicole Januszczak
-  -  Ilya Fomin
-  -  Andrew Nyblade
-  -  Yingje Ynag
 
 # Author notes (optional)
 author_notes:
