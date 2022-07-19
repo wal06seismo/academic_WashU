@@ -43,9 +43,9 @@ featured: true
 # Custom links (uncomment lines below)
 # links:
 # - name: Custom Link
-#   url:https://eartharxiv.org/repository/view/2929/
+#   url:https://academic.oup.com/gji/article/214/1/386/4963746?login=true
 
-url_pdf: ''
+url_pdf: 'https://academic.oup.com/gji/article/214/1/386/4963746?login=true'
 url_code: ''
 url_dataset: ''
 url_poster: ''
