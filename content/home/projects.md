@@ -27,14 +27,14 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: MTT
-      tag: MTT
-    - name: TOMO
-      tag: TOMO
-    - name: ANISO
-      tag: ANISO
-    - name: EQ
-      tag: EQ
+    - name: Antarctica
+      tag: ANT
+    - name: Africa
+      tag: AFRI
+    - name: Patagonia
+      tag: PATAG
+    - name: Scandinavia
+      tag: SCANDI
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
   columns: '2'
