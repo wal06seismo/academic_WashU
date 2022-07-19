@@ -1,5 +1,5 @@
 ---
-title: Multi-observable thermochemical tomography
+title: MTT-ANT22
 summary: Multi-observable thermochemical tomography.
 
 date: '2020-10-27T00:00:00Z'
