@@ -1,19 +1,21 @@
 ---
-title: 'An example conference paper'
+title: 'Thermochemical structure and evolution of cratonic lithosphere in central and southern Africa'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
+  - Juan Carlos Afonso
   - admin
-  - Robert Ford
+  -  Suzanne Y O’Reilly
+  -  Willima L GriffinL 
 
 # Author notes (optional)
 author_notes:
   - 'Equal contribution'
   - 'Equal contribution'
 
-date: '2013-07-01T00:00:00Z'
+date: '2022-05-01T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
@@ -23,14 +25,13 @@ publishDate: '2017-01-01T00:00:00Z'
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ['1']
+publication_types: ['4']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Wowchemy Conference*
-publication_short: In *ICW*
+publication: In *Nature Geoscience*
+publication_short: In *NatGeo*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
-
+abstract: The thermochemical structure of the subcontinental mantle holds information on its origin and evolution that can inform energy and mineral exploration strategies, natural hazard mitigation and evolutionary models of Earth. However, imaging the fine-scale thermochemical structure of continental lithosphere remains a major challenge. Here we combine multiple land and satellite datasets via thermodynamically constrained inversions to obtain a high-resolution thermochemical model of central and southern Africa. Results reveal diverse structures and compositions for cratons, indicating distinct evolutions and responses to geodynamic processes. While much of the Kaapvaal lithosphere retained its cratonic features, the western Angolan–Kasai Shield and the Rehoboth Block have lost their cratonic keels. The lithosphere of the Congo Craton has been affected by metasomatism, increasing its density and inducing its conspicuous low-topography, geoid and magnetic anomalies. Our results reconcile mantle structure with the causes and location of volcanism within and around the Tanzanian Craton, whereas the absence of volcanism towards the north is due to local asthenospheric downwellings, not to a previously proposed lithospheric root connecting with the Congo Craton. Our study offers improved integration of mantle structure, magmatism and the evolution and destruction of cratonic lithosphere, and lays the groundwork for future lithospheric evolutionary models and exploration frameworks for Earth and other terrestrial planets.
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
