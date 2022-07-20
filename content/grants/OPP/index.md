@@ -2,7 +2,7 @@
 title: MTT-ANT22
 summary: An example of using the in-built project page.
 tags:
-  - Patagonia
+  - POLAR
 date: '2020-10-15T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
