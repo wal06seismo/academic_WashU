@@ -27,7 +27,7 @@ experience:
     company: The Geological Society of London
     company_url: 'https://www.escubed.org/journals/earth-science-systems-and-society'
     company_logo: 
-    location: London
+    location: London (United Kingdom)
     date_start: '2021-01-01'
     date_end: ''
     description: |2-
