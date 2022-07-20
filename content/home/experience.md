@@ -32,8 +32,7 @@ experience:
     description: |2-
         
         * Review manuscripts
-        
-        
+             
   - title: Postdoc Research Associate
     company: Washinghton University in Saint Louis
     company_url: 'https://wustl.edu'
