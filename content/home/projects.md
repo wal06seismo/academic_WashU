@@ -31,7 +31,7 @@ content:
       tag: Antarctica
     - name: Patagonia
       tag: Patagonia
-      - name: Continental lithosphere
+    - name: Continental lithosphere
       tag: Lithosphere
 
 design:
