@@ -7,10 +7,6 @@ title: 'Crustal properties in the transition from orogenic to cratonics area fro
 authors:
   - admin
 
-# Author notes (optional)
-author_notes:
-  
-
 date: '2017-05-01T00:00:00Z'
 doi: ''
 
