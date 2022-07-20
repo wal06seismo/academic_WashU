@@ -61,7 +61,6 @@ email: ''
 highlight_name: true
 ---
 
-
-
+Walid Ben-Mansour is a Postdoc Research Associate at Washington University in Saint Louis (Missouri), working in the Wiens Seismology Research Group . His research interests include seismic imaging of continental lithosphere and subduction zones (ambient noise, body and surface wave tomography, azimuthal anisotropy, Pn tomography) and multi-observable probabilistic tomography for different targets (mining, seismic hazard) to estimate the 3D thermochemical structure of the lithosphere.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
