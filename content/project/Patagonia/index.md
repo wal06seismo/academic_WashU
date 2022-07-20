@@ -1,8 +1,8 @@
 ---
-title: Slab window: Azmuthal anisotropy and Body wave tomography
+title:Seismic imaging and slab window
 summary: An example of using the in-built project page.
 tags:
-  - Patagonia
+  - Antarctica
 date: '2020-10-15T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
