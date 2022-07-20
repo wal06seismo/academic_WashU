@@ -34,7 +34,7 @@ publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
 publication: In *Geophysical Research Letter*
-publication_short: Geophysical Research Letter, 49 ,2
+publication_short: Geophysical Research Letter, 49 , 2
 
 abstract: The Patagonian slab window has been proposed to enhance the solid Earth response to ice mass load changes in the overlying Northern and Southern Patagonian Icefields (NPI and SPI, respectively). Here, we present the first regional seismic velocity model covering the entire north-south extent of the slab window. A slow velocity anomaly in the uppermost mantle indicates warm mantle temperature, low viscosity, and possibly partial melt. Low velocities just below the Moho suggest that the lithospheric mantle has been thermally eroded over the youngest part of the slab window. The slowest part of the anomaly is north of 49°S, implying that the NPI and the northern SPI overlie lower viscosity mantle than the southern SPI. This comprehensive seismic mapping of the slab window provides key evidence supporting the previously hypothesized connection between post-Little Ice Age anthropogenic ice mass loss and rapid geodetically observed glacial isostatic uplift (≥4 cm/yr).
 # Summary. An optional shortened abstract.
