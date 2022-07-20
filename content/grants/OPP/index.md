@@ -6,7 +6,7 @@ tags:
 date: '2022-07-01T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
-external_link: ''
+external_link: 'https://www.nsf.gov/awardsearch/showAward?AWD_ID=2203487&HistoricalAwards=false'
 
 image:
   caption: Photo by rawpixel on Unsplash
