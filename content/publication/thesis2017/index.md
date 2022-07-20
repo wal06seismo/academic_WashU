@@ -39,9 +39,9 @@ featured: true
 # Custom links (uncomment lines below)
 # links:
 # - name: Custom Link
-#   url:https://www.nature.com/articles/s41561-022-00929-y.pdf](https://leicester.figshare.com/articles/thesis/Crustal_properties_in_the_transition_from_orogenic_to_cratonic_areas_from_seismological_analysis_example_of_the_Baltic_shield_and_the_Scandinavian_Mountains/10224368
+#   url: https://leicester.figshare.com/articles/thesis/Crustal_properties_in_the_transition_from_orogenic_to_cratonic_areas_from_seismological_analysis_example_of_the_Baltic_shield_and_the_Scandinavian_Mountains/10224368
 
-url_pdf: 'https://www.nature.com/articles/s41561-022-00929-y.pdf](https://leicester.figshare.com/articles/thesis/Crustal_properties_in_the_transition_from_orogenic_to_cratonic_areas_from_seismological_analysis_example_of_the_Baltic_shield_and_the_Scandinavian_Mountains/10224368'
+url_pdf: 'https://leicester.figshare.com/articles/thesis/Crustal_properties_in_the_transition_from_orogenic_to_cratonic_areas_from_seismological_analysis_example_of_the_Baltic_shield_and_the_Scandinavian_Mountains/10224368'
 url_code: ''
 url_dataset: ''
 url_poster: ''
