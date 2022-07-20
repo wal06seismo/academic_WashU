@@ -30,7 +30,11 @@ content:
     - name: Antarctica
       tag: Antarctica
     - name: Patagonia
-      tag: Patagonia
+      tag: Patagonia  
+    - name: Africa
+      tag: Africa
+    - name: Galapagos
+      tag: Galapagos
  
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
