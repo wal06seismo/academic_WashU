@@ -25,14 +25,13 @@ content:
   # To filter by a specific tag, set `tag` to an existing tag name.
   # To remove the toolbar, delete the entire `filter_button` block.
   filter_button:
-    - name: Antarctica
-      tag: ANT
-    - name: Africa
-      tag: AFRI
-    - name: Patagonia
-      tag: PATAG
-    - name: Scandinavia
-      tag: SCANDI
+    - name: NSF-OPP
+      tag: Polar
+    - name:NSF-Geophysics
+      tag: Interior
+    - name: ROSE-NASA
+      tag: NASA
+    
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
   columns: '2'
