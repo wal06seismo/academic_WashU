@@ -31,7 +31,7 @@ content:
       tag: Interior
     - name: ROSE-NASA
       tag: NASA
-    
+ 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
   columns: '2'
