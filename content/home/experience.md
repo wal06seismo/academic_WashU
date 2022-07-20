@@ -32,9 +32,9 @@ experience:
     date_end: ''
     description: |2-
         
-        * Multi-observable thermochemical tomograghy of Antarctica
-        * Azimuthal anistropy 
-        * Multi frequency P and S body wave tomography
+        * Review papers
+        * Regular meeting with the Editorial board
+        * Special Issues
        
 
   - title: Postdoc Research Associate
