@@ -10,9 +10,6 @@ authors:
   - Stewart Fishwick
   - Max Moorkamp
 
-# Author notes (optional)
-author_notes:
-
 date: '2018-05-01T00:00:00Z'
 doi: ''
 
