@@ -15,11 +15,11 @@ slides:
 
 # Introduction
 
-[Wowchemy](https://wowchemy.com/) | [Documentation](https://owchemy.com/docs/managing-content/#create-slides)
+
 
 ---
 
-## Features
+##Scientific question we want to address
 
 - Efficiently write slides in Markdown
 - 3-in-1: Create, Present, and Publish your slides
@@ -28,7 +28,7 @@ slides:
 
 ---
 
-## Controls
+## Methods
 
 - Next: `Right Arrow` or `Space`
 - Previous: `Left Arrow`
@@ -42,7 +42,7 @@ slides:
 
 ---
 
-## Code Highlighting
+## Datasets
 
 Inline code: `variable`
 
