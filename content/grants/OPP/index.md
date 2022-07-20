@@ -1,9 +1,9 @@
 ---
-title: MTT-ANT22
-summary: An example of using the in-built project page.
+title: Thermal and Compositional Structure of Antarctica from Probabilistic Joint Inversion of Seismic, Gravity, and Topography Data and Petrological Modelling
+summary: Multi-observable thermochemical tomography of Antarctica
 tags:
   - POLAR
-date: '2020-10-15T00:00:00Z'
+date: '2022-07-01T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
@@ -12,11 +12,7 @@ image:
   caption: Photo by rawpixel on Unsplash
   focal_point: Smart
 
-links:
-  - icon: twitter
-    icon_pack: fab
-    name: Follow
-    url: https://twitter.com/georgecushen
+links:  
 url_code: ''
 url_pdf: ''
 url_slides: ''
@@ -30,12 +26,11 @@ url_video: ''
 slides: example
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+Non-Technical abstract
+The physical state of the mantle beneath the Antarctic Ice Sheet plays a key role in the interaction between the Antarctic ice cover and the solid earth, strongly influencing the glacial system's evolution. Generally, mantle temperature profiles are determined by analyzing rock samples from the mantle to determine pressure-temperature conditions, and/or by conversion of seismic velocity anomalies to temperature anomalies. However, mantle rocks have been found only in a very few places in Antarctica, and seismic anomalies reflect not only thermal anomalies but also compositional variations. In this project, the investigators will (1) use the most recent geophysical datasets sensitive to temperature and composition (high-resolution seismic velocity model, topography, satellite gravity), (2) Combine the sensitivity of these datasets in a to retrieve the most reliable model of thermal and compositional structure, (3) translate the results into 2-dimensional maps of temperature slices and the composition of iron in the mantle,(4) compare the results with results from other continents to better understand Antarctic geological history, and (5) use the new thermal model along with established rock relationships to estimate mantle viscosity. 
 
-Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.
 
-Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.
+Technical abstract 
+The thermochemical structure of the lithosphere beneath Antarctica is fundamental for understanding the geological evolution of the continent and its relationship to surrounding Gondwana continents. In addition, the thermal structure controls the solid earth response to glacial unloading, with important implications for ice sheet models and the future of the West Antarctic Ice Sheet. However, it is challenging to get an accurate picture of temperature and composition from only sparse petrological/geochemical analysis, and most previous attempts to solve this problem geophysically have relied on seismic or gravity data alone. Here, we propose to use a probabilistic joint inversion (high resolution regional seismic data, satellite gravity data, topography) and petrological modelling approach to determine the 3D thermochemical structure of the mantle. The inversion will be carried out using a Markov-chain Bayesian Monte Carlo methodology, providing quantitative estimates of uncertainties. Mapping the 3-dimensional thermochemical structure (thermal and composition) will provide a comprehensive view of the horizontal (50-100 km resolution) and vertical (from the surface down to 380 km) variations. This new model will give us the temperature variation from the surface down to 380 km and the degree of depletion of the lithospheric mantle and the sub-lithospheric mantle. This new model will also be compared to recent models of Gondwana terranes 200 Myrs to build a new model of the thermochemical evolution of the cratonic mantle. The new thermal and chemical structures can be used to better understand the geothermal heat flux beneath the ice sheet as well as improve glacial isostatic adjustment and ice sheet models.
 
-Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.
-
-Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.
+This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.
