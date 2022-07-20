@@ -19,7 +19,7 @@ slides:
 
 ---
 
-##Scientific question we want to address
+## Scientific question we want to address
 
 - Efficiently write slides in Markdown
 - 3-in-1: Create, Present, and Publish your slides
