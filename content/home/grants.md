@@ -14,7 +14,7 @@ subtitle: ''
 
 content:
   # Page type to display. E.g. project.
-  page_type: project
+  page_type: grants
 
   # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
   filter_default: 0
@@ -26,12 +26,13 @@ content:
   # To remove the toolbar, delete the entire `filter_button` block.
   filter_button:
     - name: NSF-OPP
-      tag: Polar
-    - name:NSF-Geophysics
-      tag: Interior
-    - name: ROSE-NASA
-      tag: NASA
- 
+      tag: ANT
+    - name: Africa
+      tag: AFRI
+    - name: Patagonia
+      tag: PATAG
+    - name: Scandinavia
+      tag: SCANDI
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
   columns: '2'
