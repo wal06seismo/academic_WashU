@@ -31,6 +31,8 @@ content:
       tag: Antarctica
     - name: Patagonia
       tag: Patagonia
+      - name: Continental lithosphere
+      tag: Lithosphere
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
