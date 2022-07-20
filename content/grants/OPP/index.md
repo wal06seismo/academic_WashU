@@ -1,6 +1,6 @@
 ---
 title: Thermal and Compositional Structure of Antarctica from Probabilistic Joint Inversion of Seismic, Gravity, and Topography Data and Petrological Modelling
-summary: Multi-observable thermochemical tomography of Antarctica (2022-2024: $191,601.00)
+summary: Multi-observable thermochemical tomography of Antarctica(2022-2024: $191,601.00)
 tags:
   - POLAR
 date: '2022-07-01T00:00:00Z'
