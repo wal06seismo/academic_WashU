@@ -26,11 +26,11 @@ content:
   # To remove the toolbar, delete the entire `filter_button` block.
   filter_button:
     - name: Antarctica
-      tag: ANT
+      tag: Antarctica
     - name: Africa
-      tag: AFRI
+      tag: Africa
     - name: Patagonia
-      tag: PATAG
+      tag: Patagonia
     - name: Scandinavia
       tag: SCANDI
 design:
