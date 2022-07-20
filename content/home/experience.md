@@ -24,7 +24,7 @@ date_format: Jan 2006
 experience:
  - title: Associate Editor of Earth Science, Systems and Society published by the Geological Society of London
     company: The Geological Society of London
-    company_url: '[https://wustl.edu](https://www.escubed.org/journals/earth-science-systems-and-society)'
+    company_url: 'https://www.escubed.org/journals/earth-science-systems-and-society)'
     company_logo: 
     location:
     date_start: '2021-01-01'
@@ -32,6 +32,7 @@ experience:
     description: |2-
         
         * Review manuscripts
+             
              
   - title: Postdoc Research Associate
     company: Washinghton University in Saint Louis
