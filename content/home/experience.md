@@ -22,19 +22,7 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-
- - title: Associate Editor of Earth Science, Systems and Society published by the Geological Society of London
-    company: The Geological Society of London
-    company_url: 'https://www.escubed.org/journals/earth-science-systems-and-society)'
-    company_logo: 
-    location:
-    date_start: '2021-01-01'
-    date_end: ''
-    description: |2-
-        
-        * Review manuscripts
-             
-             
+         
   - title: Postdoc Research Associate
     company: Washinghton University in Saint Louis
     company_url: 'https://wustl.edu'
