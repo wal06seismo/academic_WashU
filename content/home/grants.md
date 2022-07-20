@@ -30,7 +30,8 @@ content:
     - name:NSF-GEO
       tag: GEOPHY
     - name: ROSE-NASA
-      tag: NASA      
+      tag: NASA
+      
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
   columns: '2'
