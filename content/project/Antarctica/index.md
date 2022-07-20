@@ -3,7 +3,7 @@ title: Multi-observable thermochemical tomography
 summary: An example of using the in-built project page.
 tags:
   - Antarctica
-date: '2020-10-15T00:00:00Z'
+date: '2022-07-15T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
