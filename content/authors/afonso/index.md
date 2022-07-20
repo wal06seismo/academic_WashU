@@ -11,7 +11,7 @@ role: Associate Professor
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: University of Twente, the Netherlands
-    url: https://eps.wustl.edu
+    url: https://www.utwente.nl/en/
 
 # Interests to show in About widget
 interests:
@@ -33,7 +33,7 @@ social:
     link: 
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.fr/citations?user=9MLrjLAAAAAJ&hl=en
+    link: https://scholar.google.com.au/citations?user=KqLtx6oAAAAJ&hl=en
   - icon: github
     icon_pack: fab
     link: 
