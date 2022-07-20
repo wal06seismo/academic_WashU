@@ -1,8 +1,8 @@
 ---
-title:Seismic imaging and slab window
+title: Seismic imaging and slab window
 summary: An example of using the in-built project page.
 tags:
-  - Antarctica
+  - Patagonia
 date: '2020-10-15T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
