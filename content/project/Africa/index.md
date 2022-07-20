@@ -3,7 +3,7 @@ title: Multi-observable thermochemical tomography- Ambient noise tomography- Azi
 summary: An example of using the in-built project page.
 tags:
   - Lithosphere1
-date: '2020-10-15T00:00:00Z'
+date: '2018-06-15T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
