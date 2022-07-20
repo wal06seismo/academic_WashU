@@ -31,9 +31,12 @@ content:
       tag: Antarctica
     - name: Patagonia
       tag: Patagonia
-    - name: Continental lithosphere
-      tag: Lithosphere
-
+    - name: Africa
+      tag: Lithosphere1
+    - name: Scandinavia
+      tag: Lithosphere2
+    - name: Galapagos
+      tag: plume
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
   columns: '2'
