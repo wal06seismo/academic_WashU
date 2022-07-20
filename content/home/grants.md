@@ -30,8 +30,8 @@ content:
       tag: GEOPHY
     - name: ROSE-NASA
       tag: NASA
-    - name: Scandinavia
-      tag: SCANDI
+    - name: OTHERS
+      tag: others
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
   columns: '2'
