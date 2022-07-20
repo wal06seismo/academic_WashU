@@ -19,8 +19,6 @@ authors:
   -  Andrew Nyblade
   -  Yingje Yang
 
-# Author notes (optional)
-author_notes:
 
 date: '2022-05-01T00:00:00Z'
 doi: ''
