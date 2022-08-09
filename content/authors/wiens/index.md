@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Walid Ben-Mansour
+title:Douglas Wiens
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Postdoc Research Associate
+role: Robert S. Brookings Distinguished Professor 
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -15,9 +15,8 @@ organizations:
 
 # Interests to show in About widget
 interests:
-  - Continental lithosphere
-  - Subduction zones/seismic imaging
-  - Joint inversion
+  - Seismology of Antarctica
+  - Subduction zones
   - Earthquake seismology
 
 # Social/Academic Networking
