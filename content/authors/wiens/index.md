@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Douglas Wiens
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Robert S. Brookings Distinguished Professor
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
+  - name: Washinghton University in Saint Louis
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
