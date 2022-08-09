@@ -3,7 +3,7 @@
 title: Douglas Wiens
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position/tagline
 role: Robert S. Brookings Distinguished Professor
