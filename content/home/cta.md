@@ -1,5 +1,5 @@
 ---
-title:
+title:Wiens Seismology Research Group
 subtitle:
 widget: people
 headless: true
@@ -8,4 +8,4 @@ design:
   columns: '1'
 ---
 
-{{% cta cta_link="./people/" cta_text="Meet the team →" %}}
+{{% cta cta_link="./people/" cta_text="Wiens Seismology Research Group →" %}}
