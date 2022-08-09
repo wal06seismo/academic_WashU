@@ -16,7 +16,7 @@ authors:
   - Sergio Barrientos
 
 date: '2022-05-01T00:00:00Z'
-doi: ''
+doi: ' 10.1029/2021gl096863'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2022-01-01T00:00:00Z'
@@ -47,7 +47,7 @@ featured: true
 
 url_pdf: 'https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2021GL096863'
 url_code: ''
-url_dataset: ''
+url_dataset: 'https://zenodo.org'
 url_poster: ''
 url_project: ''
 url_slides: ''
@@ -74,7 +74,7 @@ projects:
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+slides: ''
 ---
 
 {{% callout note %}}
