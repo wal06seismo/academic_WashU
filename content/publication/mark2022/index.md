@@ -16,7 +16,7 @@ authors:
   - Sergio Barrientos
 
 date: '2022-05-01T00:00:00Z'
-doi: ' 10.1029/2021gl096863'
+doi: '10.1029/2021gl096863'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2022-01-01T00:00:00Z'
