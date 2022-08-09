@@ -1,7 +1,7 @@
 ---
 title:
 subtitle:
-widget: blank
+widget: people
 headless: true
 weight: 40
 design:
