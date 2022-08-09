@@ -21,9 +21,12 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Geological Sciences
-      institution: Northwestern University
-      year: 1985
+    - course: PhD in Seismology-Geophysics
+      institution: Washinghton University in Saint Louis
+      year: present
+    - course: Bachelor of Arts, Astrogeophysics
+      institution: Colgate University
+      year: 2019
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
