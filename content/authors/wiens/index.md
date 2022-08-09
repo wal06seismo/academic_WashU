@@ -11,7 +11,7 @@ role: Robert S. Brookings Distinguished Professor
 # Organizations/Affiliations
 organizations:
   - name: Washinghton University in Saint Louis
-    url: ''
+    url: 'https://eps.wustl.edu'
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
