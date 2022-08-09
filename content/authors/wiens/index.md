@@ -50,9 +50,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Principal Investigators
+  - Researchers
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Wiens specializes in seismology and geophysics and has done extensive research on large deep earthquakes in the Pacific Ocean. He also is researching the seismology of Antarctica. He has taught courses on earth forces, seismology, environmental geophysics and geodynamics. Through his research on the melting of ice sheets and the ensuing sea-level rise, Wiens is uniquely positioned to talk about climate change.
