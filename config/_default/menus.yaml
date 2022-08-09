@@ -8,7 +8,7 @@ main:
     url: '#about'
     weight: 10
   - name: Members
-    url: '#people'
+    url: '#about'
     weight: 10
   - name: Grants
     url: '#grants'
