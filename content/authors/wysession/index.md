@@ -38,7 +38,7 @@ social:
     link: 
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.com/citations?user=izg0PuIAAAAJ&hl=en&oi=ao
+    link: ""
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
