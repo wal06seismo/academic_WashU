@@ -53,7 +53,7 @@ featured: true
 
 url_pdf: 'https://www.nature.com/articles/s41561-022-00929-y.pdf'
 url_code: ''
-url_model: 'https://zenodo.org'
+url_dataset: 'https://zenodo.org'
 url_poster: ''
 url_project: ''
 url_slides: ''
