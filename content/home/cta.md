@@ -1,5 +1,5 @@
 ---
-title:Wiens Seismology Research Group
+title: Wiens Seismology Research Group
 subtitle:
 widget: people
 headless: true
