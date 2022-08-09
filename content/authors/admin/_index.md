@@ -53,7 +53,9 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: 
-
+    - icon: ORCID
+    icon_pack: fab
+    link: 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
 
