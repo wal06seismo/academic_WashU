@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 68
 
-title: Wiens Seismology Research Group
+title: Meet the Team
 subtitle:
 
 content:
