@@ -25,7 +25,7 @@ education:
       year: present
     - course: Undergraduate study
       institution: Saint Louis University
-      year: 2021
+      year: 2022
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
