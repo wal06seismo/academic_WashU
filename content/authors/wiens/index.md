@@ -6,7 +6,7 @@ title: Douglas Wiens
 superuser: true
 
 # Role/position/tagline
-role: Postdoc Research Associate
+role: Robert S. Brookings Distinguished Professor
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -15,9 +15,9 @@ organizations:
 
 # Interests to show in About widget
 interests:
-  - Continental lithosphere
-  - Subduction zones/seismic imaging
-  - Joint inversion
+
+  - Subduction zones
+  - Seismology of Antarctica
   - Earthquake seismology
 
 
@@ -51,6 +51,5 @@ email: ''
 highlight_name: true
 ---
 
-Walid Ben-Mansour is a Postdoc Research Associate at Washington University in Saint Louis (Missouri), working in the Wiens Seismology Research Group . His research interests include seismic imaging of continental lithosphere and subduction zones (ambient noise, body and surface wave tomography, azimuthal anisotropy, Pn tomography) and multi-observable probabilistic tomography for different targets (mining, seismic hazard) to estimate the 3D thermochemical structure of the lithosphere.
 
 
