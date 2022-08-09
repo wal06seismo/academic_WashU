@@ -6,7 +6,7 @@ title: Douglas Wiens
 superuser: true
 
 # Role/position/tagline
-role: Postdoc Research Associate
+role: Robert S. Brookings Distinguished Professor
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -16,6 +16,7 @@ organizations:
 # Interests to show in About widget
 interests:
 
+  - Seismology of Antarctica
   - Subduction zones
   - Earthquake seismology
 
