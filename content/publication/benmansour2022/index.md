@@ -14,7 +14,7 @@ authors:
   -  Sergios Barriento
 
 date: '2022-07-01T00:00:00Z'
-doi: ''
+doi: '10.31223/X5TP95'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2017-01-01T00:00:00Z'
@@ -72,7 +72,7 @@ projects:
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+slides: ""
 ---
 
 {{% callout note %}}
