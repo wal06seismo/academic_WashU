@@ -40,22 +40,14 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
+    link: 'mailto:walid@wustl.edu'
   - icon: twitter
     icon_pack: fab
-    link: 
+    link: https://twitter.com/geophysicsleice
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
     link: https://scholar.google.fr/citations?user=9MLrjLAAAAAJ&hl=en
-  - icon: github
-    icon_pack: fab
-    link: 
-  - icon: linkedin
-    icon_pack: fab
-    link: 
-    - icon: ORCID
-    icon_pack: fab
-    link: 
+  
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
 
