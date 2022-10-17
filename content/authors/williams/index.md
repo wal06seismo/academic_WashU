@@ -40,5 +40,5 @@ user_groups:
       institution: Washington University in Saint Louis, Missouri (USA)
     - Undergraduate program (completed in 2022)
       institution: Saint Louis University, Missouri (USA)
-      Senior project: Relocation and Analysis of Unexpectedly Deep Earthquakes
-      ~80 km West of Colombia in the Panama Basin.
+      Senior project: Relocation and Analysis of Unexpectedly Deep 
+      Earthquakes ~80 km West of Colombia in the Panama Basin.
