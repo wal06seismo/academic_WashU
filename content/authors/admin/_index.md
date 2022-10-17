@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Walid Ben-Mansour
+title: Adrea Williams
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Postdoc Research Associate
+role: Seismology Graduate Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
