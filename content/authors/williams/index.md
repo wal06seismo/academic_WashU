@@ -33,8 +33,7 @@ user_groups:
    - Grad Students
 ---
 # Interests:
-  - Deep earthquake
-
+  - Deep earthquakes
 
 # Education
     - PhD in Seismology-Geophysics
