@@ -36,7 +36,7 @@ user_groups:
   - Deep earthquakes
 
 ## Education
-    - PhD in Seismology-Geophysics
+    - Undergraduate 
       institution: Saint Louis University, Missouri (USA)
       year: 2022
       Senior project: Relocation and Analysis of Unexpectedly Deep Earthquakes
