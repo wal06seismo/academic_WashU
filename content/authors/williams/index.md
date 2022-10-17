@@ -6,7 +6,7 @@ title: Adrea Williams
 superuser: true
 
 # Role/position/tagline
-role: Postdoc Research Associate
+role: Seismology Graduate Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -38,15 +38,7 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: 'mailto:walid@wustl.edu'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/geophysicsleice
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.fr/citations?user=9MLrjLAAAAAJ&hl=en
+
   
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
@@ -57,8 +49,6 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
-
+   - Grad Students
 ---
 
-Walid Ben-Mansour is a Postdoc Research Associate at Washington University in Saint Louis (Missouri), working in the Wiens Seismology Research Group . His research interests include seismic imaging of continental lithosphere and subduction zones (ambient noise, body and surface wave tomography, azimuthal anisotropy, Pn tomography) and multi-observable probabilistic tomography for different targets (mining, seismic hazard) to estimate the 3D thermochemical structure of the lithosphere.
