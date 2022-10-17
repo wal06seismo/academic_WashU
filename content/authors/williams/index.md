@@ -37,6 +37,7 @@ user_groups:
 
 
 # Education
-    - course: PhD in Seismology-Geophysics
+    - PhD in Seismology-Geophysics
       institution: Saint Louis University, Missouri (USA)
       year: 2022
+      Senior project: Relocation and Analysis of Unexpectedly Deep Earthquakes ~80 km West of Colombia in the Panama Basin.
