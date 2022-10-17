@@ -13,19 +13,6 @@ organizations:
   - name: Washinghton University in Saint Louis
     url: https://eps.wustl.edu
 
-# Education to show in About widget
-education:
-  courses:
-    - course: PhD in Seismology-Geophysics
-      institution: University of Leicester, Leicester, UK
-      year: 2017
-    - course: MSc in Geophysics Geology
-      institution: University of Nice, Nice, France
-      year: 2010
-    - course: BSc in Geology Geophysics
-      institution: University of Grenoble , Grenoble, France
-      year: 2007
-
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 
