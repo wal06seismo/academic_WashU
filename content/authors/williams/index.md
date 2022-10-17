@@ -52,8 +52,6 @@ user_groups:
 
 
 # Education
-education:
-  courses:
     - course: PhD in Seismology-Geophysics
-      institution: University of Leicester, Leicester, UK
-      year: 2017
+      institution: Saint Louis University, Missouri (USA)
+      year: 2022
