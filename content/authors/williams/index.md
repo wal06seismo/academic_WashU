@@ -36,11 +36,9 @@ user_groups:
   - Deep earthquakes
 
 ## Education
-    - Graduate program
+    - Graduate program (2022-2027)
       institution: Washington University in Saint Louis, Missouri (USA)
-      year: 2022-2027
-    - Undergraduate program
+    - Undergraduate program (completed in 2022)
       institution: Saint Louis University, Missouri (USA)
-      year: 2022
       Senior project: Relocation and Analysis of Unexpectedly Deep Earthquakes
       ~80 km West of Colombia in the Panama Basin.
