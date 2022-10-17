@@ -32,10 +32,10 @@ highlight_name: false
 user_groups:
    - Grad Students
 ---
-# Interests:
+## Interests:
   - Deep earthquakes
 
-# Education
+## Education
     - PhD in Seismology-Geophysics
       institution: Saint Louis University, Missouri (USA)
       year: 2022
