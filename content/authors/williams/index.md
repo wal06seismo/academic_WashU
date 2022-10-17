@@ -3,7 +3,7 @@
 title: Adrea Williams
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position/tagline
 role: Seismology Graduate Student
@@ -12,13 +12,6 @@ role: Seismology Graduate Student
 organizations:
   - name: Washinghton University in Saint Louis
     url: https://eps.wustl.edu
-
-# Interests to show in About widget
-interests:
-  - Continental lithosphere
-  - Subduction zones/seismic imaging
-  - Joint inversion
-  - Earthquake seismology
 
 # Education to show in About widget
 education:
@@ -52,3 +45,9 @@ user_groups:
    - Grad Students
 ---
 
+# Interests to show in About widget
+interests:
+  - Continental lithosphere
+  - Subduction zones/seismic imaging
+  - Joint inversion
+  - Earthquake seismology
