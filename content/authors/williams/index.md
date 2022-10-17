@@ -21,14 +21,3 @@ highlight_name: false
 user_groups:
    - Grad Students
 ---
-## Interests:
-  - Deep earthquakes
-
-## Education
-    - Graduate program (2022-2027)
-      institution: Washington University in Saint Louis, Missouri (USA)
-    - Undergraduate program (completed in 2022)
-      institution: Saint Louis University, Missouri (USA)
-      Senior project: Relocation and Analysis of Unexpectedly Deep 
-      Earthquakes ~80 km West of Colombia in the Panama Basin.
-      
