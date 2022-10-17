@@ -44,10 +44,16 @@ highlight_name: true
 user_groups:
    - Grad Students
 ---
-
-# Interests to show in About widget
-interests:
+# Interests:
   - Continental lithosphere
   - Subduction zones/seismic imaging
   - Joint inversion
   - Earthquake seismology
+
+
+# Education
+education:
+  courses:
+    - course: PhD in Seismology-Geophysics
+      institution: University of Leicester, Leicester, UK
+      year: 2017
