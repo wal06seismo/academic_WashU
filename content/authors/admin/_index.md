@@ -6,7 +6,7 @@ title: Walid Ben-Mansour
 superuser: true
 
 # Role/position/tagline
-role: Seismology Graduate Student
+role: Postdoc Research Associate
 
 # Organizations/Affiliations to show in About widget
 organizations:
