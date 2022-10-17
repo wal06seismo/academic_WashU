@@ -15,7 +15,7 @@ role: Seismology Graduate Student
 social:
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: ""
+    link: "https://scholar.google.com/citations?user=_QZ0WfEAAAAJ&hl=en&oi=ao"
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
