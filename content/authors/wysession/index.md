@@ -32,13 +32,10 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: 
+    link: 'mailto:MICHAEL@SEISMO.WUSTL.EDU'
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: ""
+    link: "https://sites.wustl.edu/wysession/publications/"
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
