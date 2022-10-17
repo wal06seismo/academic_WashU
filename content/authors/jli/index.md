@@ -20,10 +20,6 @@ organizations:
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
 
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: ""
-
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
