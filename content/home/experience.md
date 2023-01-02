@@ -28,7 +28,7 @@ experience:
     company_url: 'https://wustl.edu'
     company_logo: 
     location: Saint Louis, Missouri (USA)
-    date_start: '2023-01'
+    date_start: '2023-01-01'
     date_end: '' 
     description: |2-
         
