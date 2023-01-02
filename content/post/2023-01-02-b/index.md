@@ -1,4 +1,3 @@
-
 ---
 title: Geological Society of London
 date: 2023-01-02
