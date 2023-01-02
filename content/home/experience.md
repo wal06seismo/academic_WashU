@@ -32,7 +32,7 @@ experience:
     date_end: '' 
     description: |2-
         
-        * Proprieties of the lithospheric mantle (thermochemical structure-attenuation-viscosity-rheology)
+        * Proprieties of the lithospheric mantle from geophysical and petrological modelling (thermochemical structure-attenuation-viscosity-rheology)
         * Environmental seismology
         * Support and training students (geophysical equiments-softwares)
         * Writing papers, proposals,reports
