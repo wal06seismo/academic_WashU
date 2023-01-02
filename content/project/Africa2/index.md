@@ -1,6 +1,6 @@
 ---
 title: Ambient noise tomography
-summary: An example of using the in-built project page.
+summary: More details soon
 tags:
   - Africa
 date: '2022-05-01T00:00:00Z'
