@@ -15,7 +15,7 @@ main:
   - name: Publications
     url: '#publications'
     weight: 50
-  - name: Models
+  - name: Porto Folio
     url: '#featured'
     weight: 50
   - name: Outreach
