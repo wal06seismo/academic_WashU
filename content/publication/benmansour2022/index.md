@@ -41,9 +41,9 @@ featured: true
 # Custom links (uncomment lines below)
 # links:
 # - name: Custom Link
-#   url:https://eartharxiv.org/repository/view/2929/
+#   url:[https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2022GL09987]
 
-url_pdf: 'https://eartharxiv.org/repository/view/2929/'
+url_pdf: 'https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2022GL099871'
 url_code: ''
 url_dataset: ''
 url_poster: ''
