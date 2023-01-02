@@ -22,19 +22,21 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-   - title: Postdoc Research Associate
+  
+  - title: Research Scientist
     company: Washinghton University in Saint Louis
     company_url: 'https://wustl.edu'
     company_logo: 
     location: Saint Louis, Missouri (USA)
     date_start: '2023-01'
-    date_end: ''
+    date_end: '' 
     description: |2-
         
-        * Mantle properties beneath of Antarctica and Patagonia 
-        * Training student (geophysical equipments and software)
-        * Writing papers, proposals and reports
-  
+        * Proprieties of the lithospheric mantle
+        * Environmental seismology
+        * Support and training students (geophysical equiments-softwares)
+        * Writing papers, proposals,reports
+   
   - title: Associate Editor of Earth Science, Systems and Society
     company: The Geological Society of London
     company_url: 'https://www.escubed.org/journals/earth-science-systems-and-society'
