@@ -3,7 +3,7 @@ title: Book and Geological Society, London
 date: 2023-01-02
 ---
 
-Our book "Structure and evolution of Laurussian orogens in Europe and North America from geophysical investigations" has been approved for publication in  Special Publications series. The submission and review processes will start in the next weeks.
+Our book "Structure and evolution of Laurussian orogens in Europe and North America from geophysical investigations" has been approved for publication in  Special Publications series. The submission and review processes will start in the next weeks. We expect more than 25 contributions from different institutes.
 
 Aims of the book: 
 During the Paleozoic, two main tectonic collisions reshaped the surface topography and lithosphere in large areas of what we name Europe and North America, leading to the assembly of Laurussia (~550-250 Myrs). The first one formed the early Palaeozoic Caledonides, located today along the present-day North Atlantic passive margins of Scandinavia, the British Isles and Greenland. The remnants of the late Palaeozoic Variscan orogen covers large parts of central and southern Europe. In North America, the two orogenic phases called the Acadian and Alleghenian orogenies overlapped spatially, and now form the present-day Appalachian Mountains. The post-orogenic evolution of these orogenies appears to be vastly different. While continental breakup roughly followed the trend of the Caledonian and Appalachian structures, the Variscides did not experience continental breakup. Instead, Central Europe experienced a long phase of intraplate magmatism from the Carboniferous to Cenozoic, which was likely related to a major modification of structure and physical properties of the lithosphere.
