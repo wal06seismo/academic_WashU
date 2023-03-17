@@ -3,7 +3,7 @@ title: NSF-Office of Polar Programs (OPP)
 date: 2022-06-03
 ---
 
-Our NSF proposal "Thermal and Compositional Structure of Antarctica from Probabilistic Joint Inversion of Seismic, Gravity, and Topography Data and Petrological Modelling" has been approved by the Office of Polar Programs.
+Our NSF proposal "Thermal and Compositional Structure of Antarctica from Probabilistic Joint Inversion of Seismic, Gravity, and Topography Data and Petrological Modelling" has been approved by the Office of Polar Programs for the period 07/2022-06/2024.
 
 Non-Technical abstract:
 
