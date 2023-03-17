@@ -12,8 +12,6 @@ authors:
 
 date: '2018-05-01T00:00:00Z'
 
-<span class="__dimensions_badge_embed__" data-doi=" https://doi.org/10.1029/2022GL099871" data-style="small_circle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
-
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2017-01-01T00:00:00Z'
