@@ -1,5 +1,5 @@
 ---
-title: Book and Geological Society of London
+title: Book and Geological Society,London
 date: 2023-01-02
 ---
 
