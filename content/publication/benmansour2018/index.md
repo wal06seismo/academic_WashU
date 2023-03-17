@@ -11,7 +11,7 @@ authors:
   - Max Moorkamp
 
 date: '2018-05-01T00:00:00Z'
-doi: '10.1093/gji/ggy140'
+doi: ''
 <span class="__dimensions_badge_embed__" data-doi=" https://doi.org/10.1029/2022GL099871" data-style="small_circle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 
 
