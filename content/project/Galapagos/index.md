@@ -1,5 +1,5 @@
 ---
-title: Pn travel time topography and mante plume extension
+title: Pn travel time topography and mantle plume extension
 summary: More details soon
 tags:
   - Galapagos
