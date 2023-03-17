@@ -11,6 +11,7 @@ authors:
   - Max Moorkamp
 
 date: '2018-05-01T00:00:00Z'
+doi: 'doi.org/10.1093/gji/ggy140'
 
 
 # Schedule page publish date (NOT publication's date).
