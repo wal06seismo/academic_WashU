@@ -53,7 +53,7 @@ featured: true
 
 url_pdf: 'https://www.nature.com/articles/s41561-022-00929-y.pdf'
 url_code: ''
-url_dataset: 'https://zenodo.org'
+url_dataset: 'https://figshare.com/articles/dataset/Afonso_Africa_2022_Nat_Geosci_zip/19322180'
 url_poster: ''
 url_project: ''
 url_slides: ''
