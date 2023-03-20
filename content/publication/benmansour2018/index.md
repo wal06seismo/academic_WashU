@@ -49,7 +49,7 @@ url_project: ''
 url_slides: ''
 url_source: ''
 url_video: ''
-
+<span class="__dimensions_badge_embed__" data-doi="10.1093/gji/ggy140"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
