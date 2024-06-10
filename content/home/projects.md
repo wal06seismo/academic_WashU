@@ -28,13 +28,13 @@ content:
     - name: All
       tag: '*'
     - name: Antarctica
-      tag: Antarctica
+      tag: '*'
     - name: Patagonia
-      tag: Patagonia  
+      tag: '*'  
     - name: Africa
-      tag: Africa
+      tag: '*'
     - name: Galapagos
-      tag: Galapagos
+      tag: '*'
  
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
