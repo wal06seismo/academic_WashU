@@ -46,7 +46,7 @@ social:
     link: https://twitter.com/geophysicsleice
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.fr/citations?user=9MLrjLAAAAAJ&hl=en
+    link: https://scholar.google.com/citations?user=92BBmZAAAAAJ&hl=en&oi=ao
   
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
